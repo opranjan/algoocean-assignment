@@ -18,6 +18,7 @@
 - 💫 **Shimmer Loading**: Better UX with animated loading placeholders.
 - 📦 **Clean Architecture**: Organized folder structure and separation of concerns.
 - 🔐 **Environment Variables**: Secure API key using `.env` file.
+-  🧠 **State Management**: Efficient and scalable using `GetX`.
 
 ---
 
